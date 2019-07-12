@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<h3>도서목록</h3>
+<style>
+	table{
+		width:100%;
+		border-collapse: collapse;
+	}
+	
+</style>
+<table>
+	<tr>
+		<td>No</td>
+		<td>도서명</td>
+		<td>출판사</td>
+		<td>저자</td>
+		<td>가격</td>
+	</tr>
+	<tr>
+		<td>No</td>
+		<td>도서명</td>
+		<td>출판사</td>
+		<td>저자</td>
+		<td>가격</td>
+	</tr>
+</table>
